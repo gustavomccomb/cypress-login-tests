@@ -22,6 +22,6 @@ Os testes foram realizados na aplicação de testes SauceDemo, desenvolvida para
 Este projeto é ideal para fins de estudo e demonstração de habilidades em testes automatizados.
 
 💼 Autor
-Gustavo McComb Marins Maciel
+Gustavo McComb
 📧 gustavomccomb@gmail.com
 🔗 linkedin.com/in/gustavomccomb
