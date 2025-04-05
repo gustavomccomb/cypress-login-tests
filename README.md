@@ -11,3 +11,6 @@ Este projeto contém testes automatizados com **Cypress** para validar o comport
 
 - [Cypress](https://www.cypress.io/) — Framework de testes E2E
 - JavaScript
+
+- 📌 Observações
+O site SauceDemo é uma aplicação pública usada para fins educacionais e testes de automação. Nenhum dado real é manipulado.
